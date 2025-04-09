@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: gray;
+}
+
+#temperature-form {
+    margin-bottom: 20px;
+    color: white;
+}
+
+#result {
+    font-weight: bold;
+    color: white;
+}
